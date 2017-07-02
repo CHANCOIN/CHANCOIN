@@ -1,7 +1,7 @@
 CHANCOIN latest release
 =======================
 
-# Download here: https://github.com/nelfwarrior/CHANCOIN/releases/latest
+# Download here: https://github.com/CHANCOIN/CHANCOIN/releases/latest
 
 
 ChanCoin integration/staging tree
