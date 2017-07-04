@@ -64,6 +64,13 @@ for Ubuntu 12.04:
 
  db4.8 packages are available [here](https://launchpad.net/~bitcoin/+archive/bitcoin).
 
+ or install them with add-apt-repository:
+
+    sudo apt-get install software-properties-common
+    sudo add-apt-repository ppa:bitcoin/bitcoin
+    sudo apt-get update
+    sudo apt-get install libdb4.8-dev libdb4.8++-dev
+
  Ubuntu precise has packages for libdb5.1-dev and libdb5.1++-dev,
  but using these will break binary wallet compatibility, and is not recommended.
 
